@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MazeGeneratorManager", "MazeGeneratorManager\MazeGeneratorManager.csproj", "{4BE387CC-6EA7-420A-9394-2A479BDF95CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "image2maze", "..\..\image2maze\src\image2maze.csproj", "{C97D7ED4-3E13-4EC9-8C1A-8D9EA33AFF85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE387CC-6EA7-420A-9394-2A479BDF95CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE387CC-6EA7-420A-9394-2A479BDF95CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE387CC-6EA7-420A-9394-2A479BDF95CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE387CC-6EA7-420A-9394-2A479BDF95CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97D7ED4-3E13-4EC9-8C1A-8D9EA33AFF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97D7ED4-3E13-4EC9-8C1A-8D9EA33AFF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97D7ED4-3E13-4EC9-8C1A-8D9EA33AFF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97D7ED4-3E13-4EC9-8C1A-8D9EA33AFF85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94962311-D4EA-4233-9DB7-81E8E0168FEC}
+	EndGlobalSection
+EndGlobal
